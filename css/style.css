@@ -45,7 +45,7 @@ div {
 
 
 .introduction {
-    background-image: url("/images/intro.png") !important;
+    background-image: url("../images/intro.png") !important;
     height: 400px;
     padding-right: 15px;
     padding-top: 15px;
@@ -56,7 +56,7 @@ div {
     height: 400px;
     background-size: cover;
     background-position: center center;
-    background-image: url("/images/photo.png");
+    background-image: url("../images/photo.png");
 }
 
 @media screen and (max-width: 767.98px)
@@ -69,7 +69,7 @@ div {
         order: 1;
     }
     .photo {
-        background-image: url("/images/photo_wide.JPG");
+        background-image: url("../images/photo_wide.JPG");
     }
 }
 
@@ -108,7 +108,7 @@ div {
     padding: 5px 15px;
 }
 .ux_skills {
-    background-image: url("/images/ux\ skills.png");
+    background-image: url("../images/ux\ skills.png");
     height: 250px;
     padding-left: 15px;
     padding-top: 8px;
@@ -129,7 +129,7 @@ div {
 
 
 .music_skills {
-    background-image: url("/images/music\ skills.png");
+    background-image: url("../images/music\ skills.png");
     height: 250px;
     padding-left: 15px;
     padding-top: 8px;
@@ -199,7 +199,7 @@ hr {
     width: 90%;
     height: 55%;
     margin-left: 5%;
-    background-image: url(/images/stonewall_pc.png);
+    background-image: url(../images/stonewall_pc.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -208,7 +208,7 @@ hr {
 @media screen and (max-width: 767.98px)
 {
     .stonewall_pictures {
-        background-image: url(/images/stonewall_screenshot.png);
+        background-image: url(../images/stonewall_screenshot.png);
     }
 }
 
@@ -233,7 +233,7 @@ hr {
     width: 90%;
     height: 55%; 
     margin-left: 5%;
-    background-image: url(/images/nsa_screenshot.png);
+    background-image: url(../images/nsa_screenshot.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -256,7 +256,7 @@ hr {
     width: 90%;
     height: 55%;
     margin-left: 5%;
-    background-image: url(/images/furminder_screenshot.PNG);
+    background-image: url(../images/furminder_screenshot.PNG);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -279,7 +279,7 @@ hr {
     width: 90%;
     height: 55%; 
     margin-left: 5%;
-    background-image: url(/images/nsa_screenshot.png);
+    background-image: url(../images/nsa_screenshot.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
